@@ -1,77 +1,87 @@
-# OTT-Merger-Project
-# LioCinema & Jotstar OTT Merger Analysis 📊
+# 📊 OTT Merger Analysis Dashboard | LioCinema x JotStar
 
-This Power BI project analyzes the merger between two major OTT platforms — **LioCinema** and **Jotstar** — into the unified brand **LioJotstar**. The dashboard provides actionable insights into post-merger performance across revenue, content, user behavior, and marketing.
-
----
-
-## 🧠 Key Business Questions & Insights
-
-### 🔹 1. What are the key revenue trends and viewership patterns pre- and post-merger?
-
-- 📈 **Result**: Total revenue increased by **35%** post-merger.
-- 🕒 Viewership peak shifted to **weekends**, with **evening slots** showing the highest growth.
-- 💰 The **Premium subscription** model showed the largest jump in revenue.
+This project provides a strategic, data-driven analysis of a proposed merger between two OTT platforms — **LioCinema** and **JotStar**. Using Power BI, SQL, and Excel, the dashboard visualizes key metrics to support business decisions around customer acquisition, content strategy, user retention, and revenue optimization.
 
 ---
 
-### 🔹 2. How did the merger impact customer acquisition and churn?
+## 📌 Project Objective
 
-- ✅ **New subscribers** increased by **42%** in the first 3 months.
-- 🚪 **Churn rate** dropped from **16% to 9%**, indicating improved content retention and engagement.
+To analyze and compare user behavior, subscription models, and content performance across both platforms to:
 
----
-
-### 🔹 3. What genres perform best on LioJotstar?
-
-- 🎥 **Top 3 Genres by Watch Time**:
-  1. Thriller
-  2. Action
-  3. Drama
-- 📊 Thrillers saw a **70% spike** in engagement post-merger due to exclusive releases.
+- Understand user demographics and engagement
+- Identify churn patterns and retention opportunities
+- Evaluate revenue performance across subscription tiers
+- Make actionable recommendations to guide a successful merger strategy
 
 ---
 
-### 🔹 4. How does content performance vary by region and time?
+## 🛠 Tools & Technologies
 
-- 🌍 **North & West India** show highest engagement.
-- 🕒 Peak streaming hours: **7 PM to 11 PM**
-- 📅 Viewership dips mid-week and spikes on **Fridays & Sundays**.
+- **Power BI** – Interactive dashboard creation
+- **SQL** – Data extraction and aggregation
 
----
-
-## 📈 Dashboards Included
-
-1. **Executive Summary Dashboard**
-2. **User Engagement & Growth**
-3. **Content Performance**
-4. **Revenue & Subscription Trends**
-5. **Marketing Effectiveness**
-6. **Churn Analysis & Recommendations**
 
 ---
 
-## 💡 Tools Used
-- Power BI (Primary Tool)
-- Excel / SQL (for preprocessing)
+## 📈 Key Insights & Observations
+
+- **JotStar holds 76.29%** of the user base, while **LioCinema has 23.71%**, indicating strong growth potential post-merger.
+- **Majority of users (51%)** are on the Free plan, offering upselling opportunities to Premium or VIP tiers.
+- The largest demographic group is **age 25-34**, followed by **18-24**, ideal for targeted content and marketing.
+- Most users consume content via **mobile (61%)**, highlighting the need for mobile-first strategies.
+- **Top Genres by Watch Time:** Drama, Action, and Comedy dominate across both platforms.
+- **Average Revenue per User:** ₹251.05, with ₹57M total revenue and 26.73M hours watched.
+- **Churn Rate:** 39% | **Retention Rate:** 61% — actionable with personalized engagement efforts.
+- Balanced upgrade/downgrade trends offer opportunity for improving **subscription retention**.
 
 ---
 
-## 📁 Project File
-- `OTT MERGER Resume project challenge.pbix` — Includes all dashboards and data insights.
+## 🔍 Dashboards Included
+
+- **Overview Dashboard** – Platform-level metrics: total users, subscriptions, retention.
+!(image.png)
+- **User Analysis** – Plan distribution, churn vs retention trends.
+!(image-1.png)
+**Revenue Trend Analysis**
+!(image-2.png)
+- **Content Consumption Dashboard** – Genre-wise watch time, device breakdown, content type trends.
+
+!(image-3.png)
+- **Upgrade/Downgrade Trends** – Subscription movement patterns by month and age group.
+
+!(image-4.png)
 
 ---
 
-## 🔗 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/shweta-vishwakarma-data-analyst/)
-- [GitHub](https://github.com/ShwetaVishwakarma83033/)
+## ✅ Business Conclusion
+
+By combining JotStar’s vast user base with LioCinema’s premium positioning, the merged platform can:
+
+- Maximize reach and monetization through targeted content.
+- Reduce churn and increase customer lifetime value (CLTV) via data-driven strategies.
+- Align product and marketing decisions with the behavior of the most active user segments.
+- Unlock scalable growth in the competitive OTT ecosystem.
 
 ---
 
-## 🎯 Summary
+## 🧑‍💼 Author
 
-This end-to-end Power BI project replicates a real-world scenario of business transformation through merger analysis. It combines revenue insights, content strategies, user behavior, and marketing analytics — all in one clean and interactive dashboard setup.
-
-Great for showcasing resume-ready data storytelling and business decision-making skills!
+**Shweta Vishwakarma**  
+🎓 MCA | 📊 Data Analyst | 📌 Power BI | 📈 SQL | 🤖 ML & Predictive Modeling  
+🌐 [Portfolio Website](https://sites.google.com/view/shwetavishwakarma/home)  
+📧 shweta.vishwakarma83033@gmail.com | 📍 India
 
 ---
+
+## 📂 How to Use
+
+To view the Power BI dashboard:
+1. Download the `.pbix` file .
+2. Open in **Power BI Desktop**.
+3. Use filters to explore user trends, revenue analysis, and content consumption.
+
+---
+
+
+---
+
