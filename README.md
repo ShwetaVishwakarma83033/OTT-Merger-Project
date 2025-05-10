@@ -39,17 +39,13 @@ To analyze and compare user behavior, subscription models, and content performan
 ## 🔍 Dashboards Included
 
 - **Overview Dashboard** – Platform-level metrics: total users, subscriptions, retention.
-!(image.png)
+
 - **User Analysis** – Plan distribution, churn vs retention trends.
-!(image-1.png)
+
 **Revenue Trend Analysis**
-!(image-2.png)
+
 - **Content Consumption Dashboard** – Genre-wise watch time, device breakdown, content type trends.
 
-!(image-3.png)
-- **Upgrade/Downgrade Trends** – Subscription movement patterns by month and age group.
-
-!(image-4.png)
 
 ---
 
